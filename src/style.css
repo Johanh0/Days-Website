@@ -17,6 +17,7 @@ body {
     background: var(--background-color);
     color: white;
     font-family: "Montserrat", sans-serif;
+    overflow-x: hidden;
 }
 
 #logo {
@@ -68,6 +69,7 @@ body {
     position: relative;
     flex: 1;
     flex-basis: 25rem;
+    overflow: hidden;
 }
 
 .hero-img img {
